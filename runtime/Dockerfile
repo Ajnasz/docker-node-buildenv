@@ -1,4 +1,4 @@
-FROM ajnasz/node-base:1.0
+FROM ajnasz/node-base:1.1
 
 MAINTAINER Lajos Koszti <ajnasz@ajnasz.hu>
 
